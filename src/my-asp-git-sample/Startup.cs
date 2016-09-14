@@ -15,6 +15,8 @@ namespace my_asp_git_sample
         // For more information on how to configure your application, visit http://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            //this is a sample comment to see where the changes will end up.
+            //Now I am adding second comment for second check in.
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
